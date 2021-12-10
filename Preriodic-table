@@ -3,7 +3,7 @@
         {
             "name": "Hydrogen",
             "appearance": "colorless gas",
-            "atomic_mass": 1.008,
+            "test": 1.008,
             "boil": 20.271,
             "category": "diatomic nonmetal",
             "density": 0.08988,
