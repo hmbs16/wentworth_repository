@@ -3651,7 +3651,7 @@
             "cpk-hex": "ab5c00"
         },
         {
-            "name": "Astatine",
+            "name": "Astatine 127 pm",
             "appearance": "unknown, probably metallic",
             "atomic_mass": 210,
             "boil": 610,
@@ -3688,7 +3688,7 @@
             "cpk-hex": "754f45"
         },
         {
-            "name": "Radon",
+            "name": "Radon 120 pm",
             "appearance": "colorless gas, occasionally glows green or red in discharge tubes",
             "atomic_mass": 222,
             "boil": 211.5,
@@ -3802,7 +3802,7 @@
             "cpk-hex": "007d00"
         },
         {
-            "name": "Actinium",
+            "name": "Actinium 195 pm",
             "appearance": null,
             "atomic_mass": 227,
             "boil": 3500,
@@ -3841,7 +3841,7 @@
             "cpk-hex": "70abfa"
         },
         {
-            "name": "Thorium",
+            "name": "Thorium 180 pm",
             "appearance": "silvery, often with black tarnish",
             "atomic_mass": 232.03774,
             "boil": 5061,
@@ -3882,7 +3882,7 @@
             "cpk-hex": "00baff"
         },
         {
-            "name": "Protactinium",
+            "name": "Protactinium 180 pm",
             "appearance": "bright, silvery metallic luster",
             "atomic_mass": 231.035882,
             "boil": 4300,
@@ -3920,7 +3920,7 @@
             "cpk-hex": "00a1ff"
         },
         {
-            "name": "Uranium",
+            "name": "Uranium 175 pm",
             "appearance": null,
             "atomic_mass": 238.028913,
             "boil": 4404,
@@ -3959,7 +3959,7 @@
             "cpk-hex": "008fff"
         },
         {
-            "name": "Neptunium",
+            "name": "Neptunium 175 pm",
             "appearance": "silvery metallic",
             "atomic_mass": 237,
             "boil": 4447,
@@ -3997,7 +3997,7 @@
             "cpk-hex": "0080ff"
         },
         {
-            "name": "Plutonium",
+            "name": "Plutonium 175 pm",
             "appearance": "silvery white, tarnishing to dark gray in air",
             "atomic_mass": 244,
             "boil": 3505,
@@ -4035,7 +4035,7 @@
             "cpk-hex": "006bff"
         },
         {
-            "name": "Americium",
+            "name": "Americium 175 pm",
             "appearance": "silvery white",
             "atomic_mass": 243,
             "boil": 2880,
