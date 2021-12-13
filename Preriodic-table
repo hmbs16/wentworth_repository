@@ -1,7 +1,7 @@
 {
     "elements": [
         {
-            "name": "Hydrogen 53 pm",
+            "name": "Hydrogen 53 pm 1312",
             "appearance": "colorless gas",
             "atomic_mass": 1.008,
             "boil": 20.271,
@@ -33,7 +33,7 @@
             "cpk-hex": "ffffff"
         },
         {
-            "name": "Helium 31 pm",
+            "name": "Helium 31 pm 2372.3",
             "appearance": "colorless gas, exhibiting a red-orange glow when placed in a high-voltage electric field",
             "atomic_mass": 4.0026022,
             "boil": 4.222,
@@ -66,7 +66,7 @@
             "cpk-hex": "d9ffff"
         },
         {
-            "name": "Lithium 167 pm",
+            "name": "Lithium 167 pm 520.2",
             "appearance": "silvery-white",
             "atomic_mass": 6.94,
             "boil": 1603,
@@ -101,7 +101,7 @@
             "cpk-hex": "cc80ff"
         },
         {
-            "name": "Beryllium 112 pm",
+            "name": "Beryllium 112 pm 899.5",
             "appearance": "white-gray metallic",
             "atomic_mass": 9.01218315,
             "boil": 2742,
@@ -174,7 +174,7 @@
             "cpk-hex": "ffb5b5"
         },
         {
-            "name": "Carbon 67 pm",
+            "name": "Carbon 67 pm 1086.5",
             "appearance": null,
             "atomic_mass": 12.011,
             "boil": null,
@@ -212,7 +212,7 @@
             "cpk-hex": "909090"
         },
         {
-            "name": "Nitrogen 56 pm",
+            "name": "Nitrogen 56 pm 1402.3",
             "appearance": "colorless gas, liquid or solid",
             "atomic_mass": 14.007,
             "boil": 77.355,
@@ -251,7 +251,7 @@
             "cpk-hex": "3050f8"
         },
         {
-            "name": "Oxygen 48 pm",
+            "name": "Oxygen 48 1313.9 pm",
             "appearance": null,
             "atomic_mass": 15.999,
             "boil": 90.188,
@@ -291,7 +291,7 @@
             "cpk-hex": "ff0d0d"
         },
         {
-            "name": "Fluorine 42 pm",
+            "name": "Fluorine 42 pm 1681",
             "appearance": null,
             "atomic_mass": 18.9984031636,
             "boil": 85.03,
@@ -332,7 +332,7 @@
             "cpk-hex": "90e050"
         },
         {
-            "name": "Neon 38 pm",
+            "name": "Neon 38 pm 2080.7",
             "appearance": "colorless gas exhibiting an orange-red glow when placed in a high voltage electric field",
             "atomic_mass": 20.17976,
             "boil": 27.104,
@@ -374,7 +374,7 @@
             "cpk-hex": "b3e3f5"
         },
         {
-            "name": "Sodium 190 pm",
+            "name": "Sodium 190 pm 495.8",
             "appearance": "silvery white metallic",
             "atomic_mass": 22.989769282,
             "boil": 1156.09,
@@ -418,7 +418,7 @@
             "cpk-hex": "ab5cf2"
         },
         {
-            "name": "Magnesium 145 pm",
+            "name": "Magnesium 145 pm 737.7",
             "appearance": "shiny grey solid",
             "atomic_mass": 24.305,
             "boil": 1363,
@@ -463,7 +463,7 @@
             "cpk-hex": "8aff00"
         },
         {
-            "name": "Aluminium 118 pm",
+            "name": "Aluminium 118 pm 577.5",
             "appearance": "silvery gray metallic",
             "atomic_mass": 26.98153857,
             "boil": 2743,
@@ -509,7 +509,7 @@
             "cpk-hex": "bfa6a6"
         },
         {
-            "name": "Silicon 111 pm",
+            "name": "Silicon 111 pm 786.5",
             "appearance": "crystalline, reflective with bluish-tinged faces",
             "atomic_mass": 28.085,
             "boil": 3538,
@@ -556,7 +556,7 @@
             "cpk-hex": "f0c8a0"
         },
         {
-            "name": "Phosphorus 98 pm",
+            "name": "Phosphorus 98 pm 1011.8",
             "appearance": "colourless, waxy white, yellow, scarlet, red, violet, black",
             "atomic_mass": 30.9737619985,
             "boil": null,
@@ -604,7 +604,7 @@
             "cpk-hex": "ff8000"
         },
         {
-            "name": "Sulfur 88 pm",
+            "name": "Sulfur 88 pm 999.6",
             "appearance": "lemon yellow sintered microcrystals",
             "atomic_mass": 32.06,
             "boil": 717.8,
@@ -653,7 +653,7 @@
             "cpk-hex": "ffff30"
         },
         {
-            "name": "Chlorine",
+            "name": "Chlorine 1251.2",
             "appearance": "pale yellow-green gas",
             "atomic_mass": 35.45,
             "boil": 239.11,
@@ -703,7 +703,7 @@
             "cpk-hex": "1ff01f"
         },
         {
-            "name": "Argon 71 pm",
+            "name": "Argon 71 pm 1520.6",
             "appearance": "colorless gas exhibiting a lilac/violet glow when placed in a high voltage electric field",
             "atomic_mass": 39.9481,
             "boil": 87.302,
@@ -754,7 +754,7 @@
             "cpk-hex": "80d1e3"
         },
         {
-            "name": "Potassium 243 pm",
+            "name": "Potassium 243 pm 418.8",
             "appearance": "silvery gray",
             "atomic_mass": 39.09831,
             "boil": 1032,
@@ -807,7 +807,7 @@
             "cpk-hex": "8f40d4"
         },
         {
-            "name": "Calcium 194 pm",
+            "name": "Calcium 194 pm 589.8",
             "appearance": null,
             "atomic_mass": 40.0784,
             "boil": 1757,
@@ -861,7 +861,7 @@
             "cpk-hex": "3dff00"
         },
         {
-            "name": "Scandium 184 pm",
+            "name": "Scandium 184 pm 633.1",
             "appearance": "silvery white",
             "atomic_mass": 44.9559085,
             "boil": 3109,
@@ -916,7 +916,7 @@
             "cpk-hex": "e6e6e6"
         },
         {
-            "name": "Titanium 176 pm",
+            "name": "Titanium 176 pm 658.8",
             "appearance": "silvery grey-white metallic",
             "atomic_mass": 47.8671,
             "boil": 3560,
@@ -972,7 +972,7 @@
             "cpk-hex": "bfc2c7"
         },
         {
-            "name": "Vanadium 171 pm",
+            "name": "Vanadium 171 pm 650.9",
             "appearance": "blue-silver-grey metal",
             "atomic_mass": 50.94151,
             "boil": 3680,
@@ -1029,7 +1029,7 @@
             "cpk-hex": "a6a6ab"
         },
         {
-            "name": "Chromium 166 pm",
+            "name": "Chromium 166 pm 652.9",
             "appearance": "silvery metallic",
             "atomic_mass": 51.99616,
             "boil": 2944,
@@ -1087,7 +1087,7 @@
             "cpk-hex": "8a99c7"
         },
         {
-            "name": "Manganese 161 pm",
+            "name": "Manganese 161 pm 717.3",
             "appearance": "silvery metallic",
             "atomic_mass": 54.9380443,
             "boil": 2334,
@@ -1146,7 +1146,7 @@
             "cpk-hex": "9c7ac7"
         },
         {
-            "name": "Iron 156 pm",
+            "name": "Iron 156 pm 762.5",
             "appearance": "lustrous metallic with a grayish tinge",
             "atomic_mass": 55.8452,
             "boil": 3134,
@@ -1206,7 +1206,7 @@
             "cpk-hex": "e06633"
         },
         {
-            "name": "Cobalt 152 pm",
+            "name": "Cobalt 152 pm 760.4",
             "appearance": "hard lustrous gray metal",
             "atomic_mass": 58.9331944,
             "boil": 3200,
@@ -1267,7 +1267,7 @@
             "cpk-hex": "f090a0"
         },
         {
-            "name": "Nickel 149 pm",
+            "name": "Nickel 149 pm 737.1",
             "appearance": "lustrous, metallic, and silver with a gold tinge",
             "atomic_mass": 58.69344,
             "boil": 3003,
@@ -1329,7 +1329,7 @@
             "cpk-hex": "50d050"
         },
         {
-            "name": "Copper 145 pm",
+            "name": "Copper 145 pm 745.5",
             "appearance": "red-orange metallic luster",
             "atomic_mass": 63.5463,
             "boil": 2835,
@@ -1392,7 +1392,7 @@
             "cpk-hex": "c88033"
         },
         {
-            "name": "Zinc 142 pm",
+            "name": "Zinc 142 pm 906.4 ",
             "appearance": "silver-gray",
             "atomic_mass": 65.382,
             "boil": 1180,
@@ -1447,7 +1447,7 @@
             "cpk-hex": "7d80b0"
         },
         {
-            "name": "Gallium 136 pm",
+            "name": "Gallium 136 pm 578.8",
             "appearance": "silver-white",
             "atomic_mass": 69.7231,
             "boil": 2673,
@@ -1485,7 +1485,7 @@
             "cpk-hex": "c28f8f"
         },
         {
-            "name": "Germanium 125 pm",
+            "name": "Germanium 125 pm 762",
             "appearance": "grayish-white",
             "atomic_mass": 72.6308,
             "boil": 3106,
@@ -1524,7 +1524,7 @@
             "cpk-hex": "668f8f"
         },
         {
-            "name": "Arsenic 114 pm",
+            "name": "Arsenic 114 pm 947",
             "appearance": "metallic grey",
             "atomic_mass": 74.9215956,
             "boil": null,
@@ -1564,7 +1564,7 @@
             "cpk-hex": "bd80e3"
         },
         {
-            "name": "Selenium 103 pm",
+            "name": "Selenium 103 pm 941",
             "appearance": "black, red, and gray (not pictured) allotropes",
             "atomic_mass": 78.9718,
             "boil": 958,
@@ -1605,7 +1605,7 @@
             "cpk-hex": "ffa100"
         },
         {
-            "name": "Bromine 94 pm",
+            "name": "Bromine 94 pm 1139.9",
             "appearance": null,
             "atomic_mass": 79.904,
             "boil": 332,
@@ -1647,7 +1647,7 @@
             "cpk-hex": "a62929"
         },
         {
-            "name": "Krypton 88 pm",
+            "name": "Krypton 88 pm 1350.8",
             "appearance": "colorless gas, exhibiting a whitish glow in a high electric field",
             "atomic_mass": 83.7982,
             "boil": 119.93,
@@ -1711,7 +1711,7 @@
             "cpk-hex": "5cb8d1"
         },
         {
-            "name": "Rubidium 265 pm",
+            "name": "Rubidium 265 pm 403",
             "appearance": "grey white",
             "atomic_mass": 85.46783,
             "boil": 961,
@@ -1756,7 +1756,7 @@
             "cpk-hex": "702eb0"
         },
         {
-            "name": "Strontium 219 pm",
+            "name": "Strontium 219 pm 549.5",
             "appearance": null,
             "atomic_mass": 87.621,
             "boil": 1650,
@@ -1802,7 +1802,7 @@
             "cpk-hex": "00ff00"
         },
         {
-            "name": "Yttrium 212 pm",
+            "name": "Yttrium 212 pm 600",
             "appearance": "silvery white",
             "atomic_mass": 88.905842,
             "boil": 3203,
@@ -1849,7 +1849,7 @@
             "cpk-hex": "94ffff"
         },
         {
-            "name": "Zirconium 206 pm",
+            "name": "Zirconium 206 pm 640.1",
             "appearance": "silvery white",
             "atomic_mass": 91.2242,
             "boil": 4650,
@@ -1890,7 +1890,7 @@
             "cpk-hex": "94e0e0"
         },
         {
-            "name": "Niobium 198 pm",
+            "name": "Niobium 198 pm 652.1",
             "appearance": "gray metallic, bluish when oxidized",
             "atomic_mass": 92.906372,
             "boil": 5017,
@@ -1932,7 +1932,7 @@
             "cpk-hex": "73c2c9"
         },
         {
-            "name": "Molybdenum 190 pm",
+            "name": "Molybdenum 190 pm 684.3",
             "appearance": "gray metallic",
             "atomic_mass": 95.951,
             "boil": 4912,
@@ -1997,7 +1997,7 @@
             "cpk-hex": "54b5b5"
         },
         {
-            "name": "Technetium 183 pm",
+            "name": "Technetium 183 pm 702",
             "appearance": "shiny gray metal",
             "atomic_mass": 98,
             "boil": 4538,
@@ -2035,7 +2035,7 @@
             "cpk-hex": "3b9e9e"
         },
         {
-            "name": "Ruthenium 178 pm",
+            "name": "Ruthenium 178 pm 710.2",
             "appearance": "silvery white metallic",
             "atomic_mass": 101.072,
             "boil": 4423,
@@ -2073,7 +2073,7 @@
             "cpk-hex": "248f8f"
         },
         {
-            "name": "Rhodium 173 pm",
+            "name": "Rhodium 173 pm 719.7",
             "appearance": "silvery white metallic",
             "atomic_mass": 102.905502,
             "boil": 3968,
@@ -2111,7 +2111,7 @@
             "cpk-hex": "0a7d8c"
         },
         {
-            "name": "Palladium 169 pm",
+            "name": "Palladium 169 pm 804.4",
             "appearance": "silvery white",
             "atomic_mass": 106.421,
             "boil": 3236,
@@ -2148,7 +2148,7 @@
             "cpk-hex": "006985"
         },
         {
-            "name": "Silver 165 pm",
+            "name": "Silver 165 pm 731",
             "appearance": "lustrous white metal",
             "atomic_mass": 107.86822,
             "boil": 2435,
