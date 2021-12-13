@@ -1,12 +1,12 @@
 {
     "elements": [
         {
-            "name": "Hydrogen",
+            "name": "Hydrogen test",
             "appearance": "colorless gas",
             "atomic_mass": 1.008,
             "boil": 20.271,
             "category": "diatomic nonmetal",
-            "test": 0.08988,
+            "density": 0.08988,
             "discovered_by": "Henry Cavendish",
             "melt": 13.99,
             "molar_heat": 28.836,
