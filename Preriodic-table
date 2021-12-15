@@ -2263,7 +2263,7 @@
             "cpk-hex": "a67573"
         },
         {
-            "name": "Tin 145 pm",
+            "name": "Tin 145 pm 708.6",
             "appearance": "silvery-white (beta, β) or gray (alpha, α)",
             "atomic_mass": 118.7107,
             "boil": 2875,
@@ -2303,7 +2303,7 @@
             "cpk-hex": "668080"
         },
         {
-            "name": "Antimony 133 pm",
+            "name": "Antimony 133 pm 834",
             "appearance": "silvery lustrous gray",
             "atomic_mass": 121.7601,
             "boil": 1908,
@@ -2344,7 +2344,7 @@
             "cpk-hex": "9e63b5"
         },
         {
-            "name": "Tellurium 123 pm",
+            "name": "Tellurium 123 pm 869.3",
             "appearance": null,
             "atomic_mass": 127.603,
             "boil": 1261,
@@ -2386,7 +2386,7 @@
             "cpk-hex": "d47a00"
         },
         {
-            "name": "Iodine 115 pm",
+            "name": "Iodine 115 pm 1008.4",
             "appearance": "lustrous metallic gray, violet as a gas",
             "atomic_mass": 126.904473,
             "boil": 457.4,
@@ -2424,7 +2424,7 @@
             "cpk-hex": "940094"
         },
         {
-            "name": "Xenon 108 pm",
+            "name": "Xenon 108 pm 1170.4",
             "appearance": "colorless gas, exhibiting a blue glow when placed in a high voltage electric field",
             "atomic_mass": 131.2936,
             "boil": 165.051,
@@ -2462,7 +2462,7 @@
             "cpk-hex": "429eb0"
         },
         {
-            "name": "Cesium 298 pm",
+            "name": "Cesium 298 pm 375.7",
             "appearance": "silvery gold",
             "atomic_mass": 132.905451966,
             "boil": 944,
@@ -2501,7 +2501,7 @@
             "cpk-hex": "57178f"
         },
         {
-            "name": "Barium 253 pm",
+            "name": "Barium 253 pm 502.9",
             "appearance": null,
             "atomic_mass": 137.3277,
             "boil": 2118,
@@ -2540,7 +2540,7 @@
             "cpk-hex": "00c900"
         },
         {
-            "name": "Lanthanum 195 pm",
+            "name": "Lanthanum 195 pm 538.1",
             "appearance": "silvery white",
             "atomic_mass": 138.905477,
             "boil": 3737,
@@ -2581,7 +2581,7 @@
             "cpk-hex": "70d4ff"
         },
         {
-            "name": "Cerium 185 pm",
+            "name": "Cerium 185 pm 534.4",
             "appearance": "silvery white",
             "atomic_mass": 140.1161,
             "boil": 3716,
@@ -2623,7 +2623,7 @@
             "cpk-hex": "ffffc7"
         },
         {
-            "name": "Praseodymium 247 pm",
+            "name": "Praseodymium 247 pm 527",
             "appearance": "grayish white",
             "atomic_mass": 140.907662,
             "boil": 3403,
@@ -2664,7 +2664,7 @@
             "cpk-hex": "d9ffc7"
         },
         {
-            "name": "Neodymium 206 pm",
+            "name": "Neodymium 206 pm 533.1",
             "appearance": "silvery white",
             "atomic_mass": 144.2423,
             "boil": 3347,
@@ -2704,7 +2704,7 @@
             "cpk-hex": "c7ffc7"
         },
         {
-            "name": "Promethium 205 pm",
+            "name": "Promethium 205 pm 540",
             "appearance": "metallic",
             "atomic_mass": 145,
             "boil": 3273,
@@ -2744,7 +2744,7 @@
             "cpk-hex": "a3ffc7"
         },
         {
-            "name": "Samarium 238 pm",
+            "name": "Samarium 238 pm 544.5",
             "appearance": "silvery white",
             "atomic_mass": 150.362,
             "boil": 2173,
@@ -2784,7 +2784,7 @@
             "cpk-hex": "8fffc7"
         },
         {
-            "name": "Europium 231 pm",
+            "name": "Europium 231 pm 547.1",
             "appearance": null,
             "atomic_mass": 151.9641,
             "boil": 1802,
@@ -2824,7 +2824,7 @@
             "cpk-hex": "61ffc7"
         },
         {
-            "name": "Gadolinium 233 pm",
+            "name": "Gadolinium 233 pm 593.4",
             "appearance": "silvery white",
             "atomic_mass": 157.253,
             "boil": 3273,
@@ -2864,7 +2864,7 @@
             "cpk-hex": "45ffc7"
         },
         {
-            "name": "Terbium 225 pm",
+            "name": "Terbium 225 pm 565.8",
             "appearance": "silvery white",
             "atomic_mass": 158.925352,
             "boil": 3396,
@@ -2904,7 +2904,7 @@
             "cpk-hex": "30ffc7"
         },
         {
-            "name": "Dysprosium 228 pm",
+            "name": "Dysprosium 228 pm 573",
             "appearance": "silvery white",
             "atomic_mass": 162.5001,
             "boil": 2840,
@@ -2944,7 +2944,7 @@
             "cpk-hex": "1fffc7"
         },
         {
-            "name": "Holmium 226 pm",
+            "name": "Holmium 226 pm 581",
             "appearance": "silvery white",
             "atomic_mass": 164.930332,
             "boil": 2873,
@@ -2984,7 +2984,7 @@
             "cpk-hex": "00ff9c"
         },
         {
-            "name": "Erbium 226 pm",
+            "name": "Erbium 226 pm 589.3",
             "appearance": "silvery white",
             "atomic_mass": 167.2593,
             "boil": 3141,
@@ -3024,7 +3024,7 @@
             "cpk-hex": "00e675"
         },
         {
-            "name": "Thulium 222 pm",
+            "name": "Thulium 222 pm 596.7",
             "appearance": "silvery gray",
             "atomic_mass": 168.934222,
             "boil": 2223,
@@ -3064,7 +3064,7 @@
             "cpk-hex": "00d452"
         },
         {
-            "name": "Ytterbium 222 pm",
+            "name": "Ytterbium 222 pm 603.4",
             "appearance": null,
             "atomic_mass": 173.0451,
             "boil": 1469,
@@ -3104,7 +3104,7 @@
             "cpk-hex": "00bf38"
         },
         {
-            "name": "Lutetium 217 pm",
+            "name": "Lutetium 217 pm 523.5",
             "appearance": "silvery white",
             "atomic_mass": 174.96681,
             "boil": 3675,
@@ -3145,7 +3145,7 @@
             "cpk-hex": "00ab24"
         },
         {
-            "name": "Hafnium 208 pm",
+            "name": "Hafnium 208 pm 658.5",
             "appearance": "steel gray",
             "atomic_mass": 178.492,
             "boil": 4876,
@@ -3185,7 +3185,7 @@
             "cpk-hex": "4dc2ff"
         },
         {
-            "name": "Tantalum 200 pm",
+            "name": "Tantalum 200 pm 761",
             "appearance": "gray blue",
             "atomic_mass": 180.947882,
             "boil": 5731,
@@ -3223,7 +3223,7 @@
             "cpk-hex": "4da6ff"
         },
         {
-            "name": "Tungsten 193 pm",
+            "name": "Tungsten 193 pm 770",
             "appearance": "grayish white, lustrous",
             "atomic_mass": 183.841,
             "boil": 6203,
@@ -3261,7 +3261,7 @@
             "cpk-hex": "2194d6"
         },
         {
-            "name": "Rhenium 188 pm",
+            "name": "Rhenium 188 pm 760",
             "appearance": "silvery-grayish",
             "atomic_mass": 186.2071,
             "boil": 5869,
@@ -3301,7 +3301,7 @@
             "cpk-hex": "267dab"
         },
         {
-            "name": "Osmium 185 pm",
+            "name": "Osmium 185 pm 840",
             "appearance": "silvery, blue cast",
             "atomic_mass": 190.233,
             "boil": 5285,
@@ -3339,7 +3339,7 @@
             "cpk-hex": "266696"
         },
         {
-            "name": "Iridium 180 pm",
+            "name": "Iridium 180 pm 880",
             "appearance": "silvery white",
             "atomic_mass": 192.2173,
             "boil": 4403,
@@ -3377,7 +3377,7 @@
             "cpk-hex": "175487"
         },
         {
-            "name": "Platinum 177 pm",
+            "name": "Platinum 177 pm 870",
             "appearance": "silvery white",
             "atomic_mass": 195.0849,
             "boil": 4098,
@@ -3415,7 +3415,7 @@
             "cpk-hex": "d0d0e0"
         },
         {
-            "name": "Gold 174 pm",
+            "name": "Gold 174 pm 890.1",
             "appearance": "metallic yellow",
             "atomic_mass": 196.9665695,
             "boil": 3243,
@@ -3453,7 +3453,7 @@
             "cpk-hex": "ffd123"
         },
         {
-            "name": "Mercury 171 pm",
+            "name": "Mercury 171 pm 1007.1",
             "appearance": "silvery",
             "atomic_mass": 200.5923,
             "boil": 629.88,
@@ -3492,7 +3492,7 @@
             "cpk-hex": "b8b8d0"
         },
         {
-            "name": "Thallium 156 pm",
+            "name": "Thallium 156 pm 589.4",
             "appearance": "silvery white",
             "atomic_mass": 204.38,
             "boil": 1746,
@@ -3531,7 +3531,7 @@
             "cpk-hex": "a6544d"
         },
         {
-            "name": "Lead 154 pm",
+            "name": "Lead 154 pm 715.6",
             "appearance": "metallic gray",
             "atomic_mass": 207.21,
             "boil": 2022,
@@ -3572,7 +3572,7 @@
             "cpk-hex": "575961"
         },
         {
-            "name": "Bismuth 143 pm",
+            "name": "Bismuth 143 pm 703",
             "appearance": "lustrous silver",
             "atomic_mass": 208.980401,
             "boil": 1837,
@@ -3614,7 +3614,7 @@
             "cpk-hex": "9e4fb5"
         },
         {
-            "name": "Polonium 135 pm",
+            "name": "Polonium 135 pm 812.1",
             "appearance": "silvery",
             "atomic_mass": 209,
             "boil": 1235,
@@ -3651,7 +3651,7 @@
             "cpk-hex": "ab5c00"
         },
         {
-            "name": "Astatine 127 pm",
+            "name": "Astatine 127 pm 899.003",
             "appearance": "unknown, probably metallic",
             "atomic_mass": 210,
             "boil": 610,
@@ -3725,7 +3725,7 @@
             "cpk-hex": "428296"
         },
         {
-            "name": "Francium",
+            "name": "Francium 380",
             "appearance": null,
             "atomic_mass": 223,
             "boil": 950,
@@ -3763,7 +3763,7 @@
             "cpk-hex": "420066"
         },
         {
-            "name": "Radium",
+            "name": "Radium 509.3",
             "appearance": "silvery white metallic",
             "atomic_mass": 226,
             "boil": 2010,
@@ -3841,7 +3841,7 @@
             "cpk-hex": "70abfa"
         },
         {
-            "name": "Thorium 180 pm",
+            "name": "Thorium 180 pm 587",
             "appearance": "silvery, often with black tarnish",
             "atomic_mass": 232.03774,
             "boil": 5061,
@@ -3882,7 +3882,7 @@
             "cpk-hex": "00baff"
         },
         {
-            "name": "Protactinium 180 pm",
+            "name": "Protactinium 180 pm 568",
             "appearance": "bright, silvery metallic luster",
             "atomic_mass": 231.035882,
             "boil": 4300,
@@ -3920,7 +3920,7 @@
             "cpk-hex": "00a1ff"
         },
         {
-            "name": "Uranium 175 pm",
+            "name": "Uranium 175 pm 597.6",
             "appearance": null,
             "atomic_mass": 238.028913,
             "boil": 4404,
@@ -3959,7 +3959,7 @@
             "cpk-hex": "008fff"
         },
         {
-            "name": "Neptunium 175 pm",
+            "name": "Neptunium 175 pm 604.5",
             "appearance": "silvery metallic",
             "atomic_mass": 237,
             "boil": 4447,
@@ -3997,7 +3997,7 @@
             "cpk-hex": "0080ff"
         },
         {
-            "name": "Plutonium 175 pm",
+            "name": "Plutonium 175 pm 584.7",
             "appearance": "silvery white, tarnishing to dark gray in air",
             "atomic_mass": 244,
             "boil": 3505,
@@ -4035,7 +4035,7 @@
             "cpk-hex": "006bff"
         },
         {
-            "name": "Americium 175 pm",
+            "name": "Americium 175 pm 578",
             "appearance": "silvery white",
             "atomic_mass": 243,
             "boil": 2880,
@@ -4073,7 +4073,7 @@
             "cpk-hex": "545cf2"
         },
         {
-            "name": "Curium",
+            "name": "Curium 581",
             "appearance": "silvery metallic, glows purple in the dark",
             "atomic_mass": 247,
             "boil": 3383,
@@ -4149,7 +4149,7 @@
             "cpk-hex": "8a4fe3"
         },
         {
-            "name": "Californium",
+            "name": "Californium 608",
             "appearance": "silvery",
             "atomic_mass": 251,
             "boil": 1743,
@@ -4187,7 +4187,7 @@
             "cpk-hex": "a136d4"
         },
         {
-            "name": "Einsteinium",
+            "name": "Einsteinium 619",
             "appearance": "silver-colored",
             "atomic_mass": 252,
             "boil": 1269,
@@ -4225,7 +4225,7 @@
             "cpk-hex": "b31fd4"
         },
         {
-            "name": "Fermium",
+            "name": "Fermium 627",
             "appearance": null,
             "atomic_mass": 257,
             "boil": null,
@@ -4301,7 +4301,7 @@
             "cpk-hex": "b30da6"
         },
         {
-            "name": "Nobelium",
+            "name": "Nobelium 642",
             "appearance": null,
             "atomic_mass": 259,
             "boil": null,
@@ -4339,7 +4339,7 @@
             "cpk-hex": "bd0d87"
         },
         {
-            "name": "Lawrencium",
+            "name": "Lawrencium 470",
             "appearance": null,
             "atomic_mass": 266,
             "boil": null,
@@ -4377,7 +4377,7 @@
             "cpk-hex": "c70066"
         },
         {
-            "name": "Rutherfordium",
+            "name": "Rutherfordium 580",
             "appearance": null,
             "atomic_mass": 267,
             "boil": 5800,
