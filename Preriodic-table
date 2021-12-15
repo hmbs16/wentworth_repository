@@ -137,7 +137,7 @@
             "cpk-hex": "c2ff00"
         },
         {
-            "name": "Boron 87 pm",
+            "name": "Boron 87 pm 800.6",
             "appearance": "black-brown",
             "atomic_mass": 10.81,
             "boil": 4200,
@@ -2186,7 +2186,7 @@
             "cpk-hex": "c0c0c0"
         },
         {
-            "name": "Cadmium 161 pm",
+            "name": "Cadmium 161 pm  867.8",
             "appearance": "silvery bluish-gray metallic",
             "atomic_mass": 112.4144,
             "boil": 1040,
